@@ -1,0 +1,17 @@
+/* p {
+    background-color: yellow
+} */
+
+#copy-right {
+    background-color: red;
+    color: white
+}
+
+.description {
+    background-color: yellow;
+    color: white
+}
+
+.para {
+    border: 2px solid red;
+}
